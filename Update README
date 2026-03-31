@@ -1,0 +1,23 @@
+# AI Code Assistant
+
+A simple AI-powered code generation tool built with Python and OpenAI API.
+
+## Features
+- Generate code from natural language prompts
+- Improve generated code
+- Explain code for better understanding
+
+## Tech Stack
+- Python (Flask)
+- OpenAI API
+
+## How to Run
+
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Add your OpenAI API key in a .env file:
+OPENAI_API_KEY=your_key_here
+
+3. Run the app:
+python app.py
